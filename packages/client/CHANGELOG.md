@@ -1,5 +1,29 @@
 # Changelog
 
+## [0.3.0-experimental](https://github.com/anudeepreddy/node-sdk/compare/web-sdk-v0.2.0-experimental...web-sdk-v0.3.0-experimental) (2023-03-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* use node style events, add initialize ([#379](https://github.com/anudeepreddy/node-sdk/issues/379))
+* remove context from client interfaces ([#373](https://github.com/anudeepreddy/node-sdk/issues/373))
+
+### Features
+
+* use node style events, add initialize ([#379](https://github.com/anudeepreddy/node-sdk/issues/379)) ([6625918](https://github.com/anudeepreddy/node-sdk/commit/662591861140cb9b387b3810aa2b2353f7af257e))
+
+
+### Bug Fixes
+
+* remove context from client interfaces ([#373](https://github.com/anudeepreddy/node-sdk/issues/373)) ([a692a32](https://github.com/anudeepreddy/node-sdk/commit/a692a329ac73f8c9e507dd58b8390533a7648375))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @openfeature/shared bumped from 0.0.2 to 0.0.3
+
 ## [0.2.0-experimental](https://github.com/open-feature/js-sdk/compare/web-sdk-v0.1.0-experimental...web-sdk-v0.2.0-experimental) (2023-03-22)
 
 
